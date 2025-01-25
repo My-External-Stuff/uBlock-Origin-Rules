@@ -1,0 +1,15 @@
+!
+! Title: My Privacy DNS
+! Description: My Privacy DNS list, adblockers
+! Homepage: https://my-privacy-dns.itcouldbewor.se/adblocker-rules/
+! License: MCRAE GENERAL PUBLIC LICENSE (version 4.r53m2)
+! Last modified: 2025-01-25T08:21:54.292Z
+!
+! Compiled by @adguard/hostlist-compiler v1.0.34
+!
+||solvemate.com^
+||doubleclick.net^
+||googletagmanager.com^
+||daartads.com^
+||localhost^$badfilter
+||phishingquiz.withgoogle.com^$badfilter
